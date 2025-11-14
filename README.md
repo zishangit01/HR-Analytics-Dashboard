@@ -39,10 +39,8 @@ This project is an **HR Analytics Dashboard** created in Microsoft Excel to anal
 
 ---
 
-## 🖼 Dashboard Preview
-## 📊 Dashboard Preview
+![Dashboard](Dashboard.png)
 
-![Dashboard Preview](https://github.com/user-attachments/assets/b0135de1-32ce-4cc6-a11f-aa6fd8ad8f9d)
 
 ---
 
