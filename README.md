@@ -39,7 +39,8 @@ This project is an **HR Analytics Dashboard** created in Microsoft Excel to anal
 
 ---
 
-![Dashboard](Dashboard.png)
+![Dashboard](./Dashboard.png)
+
 
 
 ---
